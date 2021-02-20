@@ -1,4 +1,4 @@
-DIsk file system that simulate unix-fs system with 256 bit of disk memory.
+Disk file system that simulate unix-fs system with 256 bit of disk memory.
 The program works with one main folder and the user can add/delete and open/close files.
 For the simulate we will use a txt file to show the disk data as chars.
 
